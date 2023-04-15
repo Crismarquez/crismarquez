@@ -24,5 +24,5 @@ Here are some of my most significant projects:
 
 ## Contact
 
-Feel free to reach out to me at [main](mailto:cristian.dmr10@gmail.com) or connect with me on [linkdin](https://www.linkedin.com/in/cristian-david-m%C3%A1rquez-restrepo-80430271/).
+Feel free to reach out to me at [email](mailto:cristian.dmr10@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cristian-david-m%C3%A1rquez-restrepo-80430271/).
 
