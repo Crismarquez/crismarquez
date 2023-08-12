@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Cristian Marquez
 
-I am a machine learning engineer specialising in computer vision, passionate about creating innovative solutions using artificial intelligence to solve real-world problems.
+I am a machine learning engineer specialising in computer vision and LLMs applications, passionate about creating innovative solutions using artificial intelligence to solve real-world problems.
 
 ## Skills
 
